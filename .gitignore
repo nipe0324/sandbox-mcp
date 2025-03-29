@@ -1,0 +1,22 @@
+# Node.js related files
+node_modules/
+
+# Build output
+build/
+
+# macOS related files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Others
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
